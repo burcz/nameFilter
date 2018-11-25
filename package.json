@@ -1,0 +1,17 @@
+{
+  "name": "namechooser",
+  "version": "1.0.0",
+  "description": "helps finding a name for your child",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "burcz",
+  "license": "ISC",
+  "dependencies": {
+    "async-request": "^1.2.0",
+    "cheerio": "^1.0.0-rc.2",
+    "debug": "^4.1.0",
+    "request": "^2.88.0"
+  }
+}
